@@ -1,6 +1,6 @@
 <h1 align="center">Namaste🙏, I'm Yashraj Singh</h1>
 <h3 align="center">A computer science student</h3>
-<h3 align="left">My interests invlove problem solving and software development</h3>
+<h3 align="left">My interests involve problem solving and software development</h3>
 <h3 align="left">I'm currently learning and working with the MERN stack</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
