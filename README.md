@@ -1,7 +1,7 @@
 <h1 align="center">Namaste, I'm Yash</h1>
 <h3 align="center">
-  A Cybersecurity Engineer at <a href="https://www.encryptionconsulting.com/" target="blank">Encryption Consulting LLC</a> <br>
-  Software Development & Security | Building PKI/CLM software, SSL/TLS scanners, and certificate renewal solutions <br>
+  A Cybersecurity Engineer at <a href="https://www.encryptionconsulting.com/" target="blank">Encryption Consulting LLC</a> <br><br>
+  Software Development & Security | Building PKI/CLM software, SSL/TLS scanners, and certificate renewal solutions <br><br>
   Currently exploring Application Security
 </h3>
 <h1></h1>
